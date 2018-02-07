@@ -1,0 +1,53 @@
+title: stoic.jp
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://stoic.jp" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: ':title/'
+blog_theme: light # Or use dark
+
+# Profile information
+name: Yohei Murayama
+tagline: Android Developer
+about-description: '2004年鳥羽商船高専を卒業後、ひたすらモバイルサービスの開発をしています。<a href="https://www.android.com/">#android</a> <a href="http://kosenconf.jp/">#kosenconf</a> <a href="https://twitter.com/search?q=%23g1983ers">#g1983ers</a>' # Add Discription
+pic: kondara.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+
+# Contact links
+email: mura AT stoic.jp
+facebook: yomuraya
+linkedin: yomuraya
+github: mura
+twitter: '@yomuraya'
+instagram: yomuraya
+tumblr: mura1008
+
+# Tracker
+analytics: UA-2234396-1
+
+# Comments
+discus-identifier: stoic-jp # Add your Disqus identifier
+
+# Important settings
+assets:
+  sources:
+    - assets/fonts
+    - assets/img
+    - assets/js
+    - assets/stylesheets
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+gems:
+  - jekyll-feed
+  - jekyll-assets
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# include: [_pages]
