@@ -10,7 +10,7 @@ blog_theme: light # Or use dark
 
 # Profile information
 name: Yohei Murayama
-tagline: Android Developer
+tagline: Software engineer, Android and Java.
 about-description: '2004年鳥羽商船高専を卒業後、ひたすらモバイルサービスの開発をしています。<a href="https://www.android.com/">#android</a> <a href="http://kosenconf.jp/">#kosenconf</a> <a href="https://twitter.com/search?q=%23g1983ers">#g1983ers</a>' # Add Discription
 pic: kondara.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
