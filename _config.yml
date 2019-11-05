@@ -48,4 +48,11 @@ plugins:
   - jekyll-feed
   - jekyll-assets
 
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
 # include: [_pages]
