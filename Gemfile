@@ -11,12 +11,9 @@ ruby RUBY_VERSION
 # Happy Jekylling!
 # gem "jekyll", "3.8.5"
 
-# https://github.com/envygeeks/jekyll-assets/issues/622
-gem "sprockets", "~> 3.7"
-
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", "~> 214", group: :jekyll_plugins
+gem "github-pages", "~> 219", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
