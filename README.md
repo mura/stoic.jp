@@ -23,10 +23,11 @@
 
 ## 連絡先など
 * <i class="fa-solid fa-square-envelope"></i> mura AT stoic.jp
-* <i class="fa-brands fa-square-facebook"></i> [facebook.com/yomuraya](https://www.facebook.com/yomuraya)
-* <i class="fa-brands fa-linkedin"></i> [linkedin.com/in/yomuraya](https://www.linkedin.com/in/yomuraya)
 * <i class="fa-brands fa-square-github"></i> [github.com/mura](https://github.com/mura)
-* <i class="fa-brands fa-mastodon"></i> [@yomuraya@mstdn.jp](https://mstdn.jp/@yomuraya)
-* <i class="fa-brands fa-square-twitter"></i> [@yomuraya](https://twitter.com/yomuraya)
-* <i class="fa-brands fa-square-tumblr"></i> [mura1008.tumblr.com](https://mura1008.tumblr.com)
+* <i class="fa-brands fa-square-facebook"></i> [facebook.com/yomuraya](https://www.facebook.com/yomuraya)
 * <i class="fa-brands fa-square-instagram"></i> [instagram.com/yomuraya](https://www.instagram.com/yomuraya)
+* <i class="fa-solid fa-link"></i> [@yomuraya.bsky.social)](https://bsky.app/profile/yomuraya.bsky.social)
+* <i class="fa-brands fa-square-twitter"></i> [@yomuraya](https://twitter.com/yomuraya)
+* <i class="fa-brands fa-mastodon"></i> [@yomuraya@mstdn.jp](https://mstdn.jp/@yomuraya)
+* <i class="fa-brands fa-square-tumblr"></i> [mura1008.tumblr.com](https://mura1008.tumblr.com)
+* <i class="fa-brands fa-linkedin"></i> [linkedin.com/in/yomuraya](https://www.linkedin.com/in/yomuraya)
