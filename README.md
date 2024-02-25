@@ -7,7 +7,7 @@
 
 ## スキル・経歴
 * 2023- 私立大学 非常勤講師
-　　* 2年生向け Androidアプリ開発講義
+　 　* 2年生向け Androidアプリ開発講義
 * 2019- 求人Webサービス BEリード開発・運用
   * Java, Spring Boot, MySQL, Redis, PaaS
 * 2018-2019 Android向け地図アプリ リード開発・運用
