@@ -6,20 +6,22 @@
 [blog](https://mura.stoic.jp/)
 
 ## スキル・経歴
-* 2004-2006 Webメールサービス 開発・運用
-  * C, Apache, FreeBSD
-* 2006-2010 ガラケー向けWebサービス 開発・運用
-  * PHP, Apache, FreeBSD
-* 2010-2012 Android向けウィジェットアプリ 開発・運用
-  * Java, Android
-* 2013-2016 Android向けニュースアプリ 開発・運用
-  * Java, Kotlin, Android
-* 2017-2018 Android向けカーナビアプリ 開発・運用
-  * Java, Kotlin, Android
-* 2018-2019 Android向け地図アプリ リード開発・運用
-  * Kotlin, Android
+* 2023- 私立大学 非常勤講師
+　　* 2年生向け Androidアプリ開発講義
 * 2019- 求人Webサービス BEリード開発・運用
   * Java, Spring Boot, MySQL, Redis, PaaS
+* 2018-2019 Android向け地図アプリ リード開発・運用
+  * Kotlin, Android
+* 2017-2018 Android向けカーナビアプリ 開発・運用
+  * Java, Kotlin, Android
+* 2013-2016 Android向けニュースアプリ 開発・運用
+  * Java, Kotlin, Android
+* 2010-2012 Android向けウィジェットアプリ 開発・運用
+  * Java, Android
+* 2006-2010 ガラケー向けWebサービス 開発・運用
+  * PHP, Apache, FreeBSD
+* 2004-2006 Webメールサービス 開発・運用
+  * C, Apache, FreeBSD
 
 ## 連絡先など
 * <i class="fa-solid fa-square-envelope"></i> mura AT stoic.jp
